@@ -1,0 +1,6 @@
+@ticketier_webapi_HostAddress = http://localhost:5260
+
+GET {{ticketier_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
